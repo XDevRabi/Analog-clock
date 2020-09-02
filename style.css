@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background: bisque;
+}
+
+
+#mainClock{
+    position: relative;
+    margin: auto;
+    width: 40vw;
+    height: 40vw;
+    background: url("watch.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: 100, 100px, 50px, 50px black;
+
+}
+
+#pointHour {
+    background: url("hour.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 5%;
+    height: 28.5%;
+    left: 47.6%;
+    top: 22%;
+}
+
+#pointMinute {
+    background: url("minute.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 7%;
+    height: 35.3%;
+    left: 46.7%;
+    top: 15%;
+}
+
+#pointSecond {
+    background: #91a831;
+    border-radius: 20px;
+    width: 1.2%;
+    height: 34%;
+    left: 49.6%;
+    top: 16%;
+}
+
+#center{
+    background: #777474;
+    height: 6%;
+    width: 6%;
+    border-radius: 50%;
+    left: 47.3%;
+    top: 47.3%;
+}
+
+#pointHour, #pointMinute, #pointSecond, #center{
+    position: absolute;
+    transform-origin: bottom;
+}

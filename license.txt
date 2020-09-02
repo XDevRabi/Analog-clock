@@ -1,0 +1,7 @@
+Anyone can use and modify source code. But the images used in the project named (watch.png, hour.png, minute.png) are not allowed to use. Although you can use the alternatives images. For that you need to have same resolution size images. Here is the discription for your ease.
+1. watch.png ----> has 1080 X 1080
+2. hour.png  ----> has 127 X 729
+3. minute.png----> has 172 X 880
+
+Copyright © 2020, XDevRabi
+All rights reserved (For images only).
